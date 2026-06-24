@@ -7,7 +7,9 @@ AI/ML Developer and B.Tech CSE (AI/ML) student at VIT Bhopal.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
 
+![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Official-HarshitAgarwal&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Official-HarshitAgarwal&layout=compact)
 ## 🚀 Current Focus
 - Large Language Models
 - AI Agents
