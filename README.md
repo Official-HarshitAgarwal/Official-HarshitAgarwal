@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Official-HarshitAgarwal/Official-HarshitAgarwal/main/banner.png" alt="Harshit Agarwal Banner"/>
+  ![](https://komarev.com/ghpvc/?username=Official-HarshitAgarwal&color=blueviolet)
 </p>
-![](https://komarev.com/ghpvc/?username=Official-HarshitAgarwal&color=blueviolet)
+
 # Hi, I'm Harshit Agarwal 👋
 
 AI/ML Developer and B.Tech CSE (AI/ML) student at VIT Bhopal.
