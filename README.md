@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Official-HarshitAgarwal/Official-HarshitAgarwal/main/banner.png" alt="Harshit Agarwal Banner"/>
+</p>
+![](https://komarev.com/ghpvc/?username=Official-HarshitAgarwal&color=blueviolet)
 # Hi, I'm Harshit Agarwal 👋
 
 AI/ML Developer and B.Tech CSE (AI/ML) student at VIT Bhopal.
@@ -15,19 +19,29 @@ AI/ML Developer and B.Tech CSE (AI/ML) student at VIT Bhopal.
 - Open Source Contributions
 
 ## 🛠 Tech Stack
-Python • Java • React • Next.js • FastAPI • Git • SQL
 
+### Languages
+Python • Java • SQL
+
+### Frameworks
+React • Next.js • FastAPI
+
+### Tools
+Git • GitHub • VS Code
 ## Featured Projects
 - LLM Response Refiner
 - AI Planner
 - Smart Expense Tracker
 - Parking Congestion Analysis
 
-# GitHub Stats
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Official-HarshitAgarwal&show_icons=true)
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Official-HarshitAgarwal&layout=compact)
+![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Official-HarshitAgarwal&show_icons=true&theme=tokyonight)
 
-## Connect
-LinkedIn: www.linkedin.com/in/harshit-agrawal-aa08aa384
-Portfolio: <link>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Official-HarshitAgarwal&layout=compact&theme=tokyonight)
+
+## 🌐 Connect With Me
+
+[LinkedIn](www.linkedin.com/in/harshit-agrawal-aa08aa384)
+
+📧 hagarwal321789@gmail.com
