@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Harshit Agarwal 👋
 
-<!--
-**Official-HarshitAgarwal/Official-HarshitAgarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Developer and B.Tech CSE (AI/ML) student at VIT Bhopal.
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
+- Large Language Models
+- AI Agents
+- FastAPI
+- Machine Learning
+- Open Source Contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Python • Java • React • Next.js • FastAPI • Git • SQL
+
+## Featured Projects
+- LLM Response Refiner
+- AI Planner
+- Smart Expense Tracker
+- Parking Congestion Analysis
+
+## Connect
+LinkedIn: www.linkedin.com/in/harshit-agrawal-aa08aa384
+Portfolio: <link>
