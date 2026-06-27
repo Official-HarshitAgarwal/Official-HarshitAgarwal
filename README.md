@@ -31,7 +31,7 @@ I'm an AI/ML developer and B.Tech CSE (AI/ML) student at VIT Bhopal, passionate 
 
 ## 🏅 Achievements
 
-- GSSoC 2026 Contributor-"Harshit contributed significantly to our AI project..."
+- GSSoC 2026 Contributor
 - B.Tech CSE (AI/ML) @ VIT Bhopal
 - Built Multi-Agent LLM Response Refiner
 - Developed AI Planner and Expense Tracker
