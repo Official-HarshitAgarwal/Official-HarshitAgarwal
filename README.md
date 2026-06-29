@@ -1,4 +1,4 @@
-<+p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Official-HarshitAgarwal/Official-HarshitAgarwal/main/banner.png" alt="Harshit Agarwal Banner"/>
 </p>
 
